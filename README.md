@@ -10,3 +10,4 @@ My F# Solutions for Project Euler
 - [Problem 6](problem6.fsx) - Sum square difference
 - [Problem 7](problem7.fsx) - 10001st prime
 - [Problem 8](problem8.fsx) - Largest product in a series
+- [Problem 9](problem9.fsx) - Special Pythagorean triplet
