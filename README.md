@@ -15,3 +15,6 @@ My F# Solutions for Project Euler
 - [Problem 11](problem11.fsx) - Largest product in a grid
 - [Problem 12](problem12.fsx) - Highly divisible triangular number
 - [Problem 13](problem13.fsx) - Large sum
+- TODO - Problem 14 - Longest Collatz sequence
+- TODO - Problem 15 - Lattice paths
+- [Problem 16](problem16.fsx) - Power digit sum
