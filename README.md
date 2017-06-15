@@ -18,3 +18,4 @@ My F# Solutions for Project Euler
 - TODO - Problem 14 - Longest Collatz sequence
 - TODO - Problem 15 - Lattice paths
 - [Problem 16](problem16.fsx) - Power digit sum
+- [Problem 17](problem17.fsx) - Number letter counts
