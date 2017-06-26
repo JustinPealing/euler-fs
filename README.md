@@ -22,3 +22,4 @@ My F# Solutions for Project Euler
 - TODO - Problem 18 - Maximum path sum I
 - TODO - Problem 19 - Counting Sundays
 - [Problem 20](problem20.fsx) - Factorial digit sum
+- [Problem 21](problem21.fsx) - Amicable numbers
