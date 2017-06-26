@@ -19,3 +19,6 @@ My F# Solutions for Project Euler
 - TODO - Problem 15 - Lattice paths
 - [Problem 16](problem16.fsx) - Power digit sum
 - [Problem 17](problem17.fsx) - Number letter counts
+- TODO - Problem 18 - Maximum path sum I
+- TODO - Problem 19 - Counting Sundays
+- [Problem 20](problem20.fsx) - Factorial digit sum
